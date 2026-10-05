@@ -1,0 +1,56 @@
+[
+  {
+    "id": 123,
+    "repo_id": 17,
+    "type": 1,
+    "config": null,
+    "created_unix": 1784909907,
+    "anonymous_access_mode": 0,
+    "everyone_access_mode": 0
+  },
+  {
+    "id": 124,
+    "repo_id": 17,
+    "type": 2,
+    "config": "{\"EnableTimetracker\":true,\"AllowOnlyContributorsToTrackTime\":true,\"EnableDependencies\":true}",
+    "created_unix": 1784909907,
+    "anonymous_access_mode": 0,
+    "everyone_access_mode": 0
+  },
+  {
+    "id": 125,
+    "repo_id": 17,
+    "type": 4,
+    "config": null,
+    "created_unix": 1784909907,
+    "anonymous_access_mode": 0,
+    "everyone_access_mode": 0
+  },
+  {
+    "id": 127,
+    "repo_id": 17,
+    "type": 8,
+    "config": "{\"ProjectsMode\":\"all\"}",
+    "created_unix": 1784909907,
+    "anonymous_access_mode": 0,
+    "everyone_access_mode": 0
+  },
+  {
+    "id": 128,
+    "repo_id": 17,
+    "type": 9,
+    "config": null,
+    "created_unix": 1784909907,
+    "anonymous_access_mode": 0,
+    "everyone_access_mode": 0
+  },
+  {
+    "id": 129,
+    "repo_id": 17,
+    "type": 5,
+    "config": null,
+    "created_unix": 1784909946,
+    "anonymous_access_mode": 0,
+    "everyone_access_mode": 0
+  }
+]
